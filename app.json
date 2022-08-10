@@ -1,0 +1,12 @@
+{
+  "name": "All-In-One",
+  "displayName": "All-In-One",
+  "expo": {
+    "name": "All-In-One",
+    "slug": "All-In-One",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
